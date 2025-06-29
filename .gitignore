@@ -1,0 +1,6 @@
+# editor files
+.zed/
+
+# Python files
+__pycache__/
+*.pyc
